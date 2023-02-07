@@ -3,6 +3,6 @@ type: Workspace
 parentId: null
 modified: 1656973222333
 created: 1656973222333
-name: auth-server-spec.yaml
+name: mid-plus-spec.yaml
 description: ""
 scope: design
